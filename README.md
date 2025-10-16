@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://mac-25.github.io/.github/istatmenus/">
+  <a href="https://mac-25.github.io/.github/istatmenus">
     <img src="https://img.shields.io/badge/Get%20iStat%20Menus-darkgreen?style=for-the-badge&logo=apple&logoColor=white" alt="Get iStat Menus">
   </a>
 </p>
